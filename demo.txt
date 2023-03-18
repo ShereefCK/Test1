@@ -1,2 +1,6 @@
 demo.txt
+<<<<<<< HEAD
 Second line on main branch
+=======
+Second li on demo1 branch
+>>>>>>> demo1
